@@ -1,4 +1,5 @@
 # Shekhar-demo
+
 This is my first Repository.
 <br>
-Author- Mr. Shekhar Kumar
+Author- Mr. Shekhar Kumar Thakur
